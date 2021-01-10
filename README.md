@@ -2,17 +2,19 @@
  Boscoyo 270 Node Star Code and Info
  For Video See:
  
- Not doing a full write-up and how to for this, because I made it several years ago. 
- Overall it is not to complicated. The images should give you enough hints on how to build it.
+ Not doing a full write-up and how-to for this, because I made it several years ago. 
+ Overall, it is not too complicated. The images should give you enough hints on how to build it.
  
  Basic contruction details:
+ *Spray paint star desired color.
  *Insert pixels into star so that they start in center and circle outwards (forming complete stars). Add power injection points every 70 pixels or so.
  *Put power supply in electronics box with Arduino on mini-breadboard. 
  *Add wires in/out using water proof connectors, cable glands, and crimp connectors, etc.
  *Attach electronics box to star using standoffs to rise above pixels. 
+ *Ignore the tube coming from the top of the box in the pictures, it is for a light sensor
  
  
- Supplies:
+ Supplies (mostly):
  Boscoyo 270 Node, 36" Star: https://boscoyostudio.com/product/chromastar-36/
  Ws2811 String x50 (get 6): https://www.amazon.com/ALITOVE-LED-Individually-Addressable-Waterproof/dp/B01AG923GI/ref=sr_1_13?dchild=1&keywords=ws2812b+string&qid=1610236575&sr=8-13
  5V, 18A power Supply: https://www.amazon.com/MEANWELL-Switching-Power-Supplies-LRS-100-5/dp/B018TEAPRQ/ref=sr_1_3?dchild=1&keywords=5v+18a+power+supply&qid=1610236768&sr=8-3
@@ -27,4 +29,5 @@
  Some 40mm Standoffs: https://www.amazon.com/Bluecell-Female-Hexagonal-Stand-off-Spacers/dp/B07FYHLSLG/ref=sr_1_2?dchild=1&keywords=40mm+standoff&qid=1610237402&sr=8-2
  Some coro sheet (for bottom of electronics box): https://www.amazon.com/T-SIGN-Corrugated-Plastic-Coroplast-Replacement/dp/B07FCKS59R/ref=sr_1_2?dchild=1&keywords=coro+sheet&qid=1610237478&sr=8-2
  Chain +  carabiner hooks for hanging
+ Sprayy paint for star
  
