@@ -1,5 +1,6 @@
 # Coro-Pixel-Star-270
- Boscoyo 270 Node Star Code and Info
+ Boscoyo 270 Node Star Code and Info.
+ 
  For Video See:
  
  Not doing a full write-up and how-to for this, because I made it several years ago. 
@@ -11,7 +12,7 @@
  *Put power supply in electronics box with Arduino on mini-breadboard. 
  *Add wires in/out using water proof connectors, cable glands, and crimp connectors, etc.
  *Attach electronics box to star using standoffs to rise above pixels. 
- *Ignore the tube coming from the top of the box in the pictures, it is for a light sensor
+ *Ignore the tube coming from the top of the box in the pictures, it is for a light sensor.
  
  
  Supplies (mostly):
@@ -28,6 +29,6 @@
  Bare end power cable: https://www.amazon.com/Conductor-3-Prong-Wiring-Replacement-Pigtail/dp/B07MSHD726/ref=sr_1_2?dchild=1&keywords=power+cable+3+prong+bare+end&qid=1610237224&sr=8-2
  Some 40mm Standoffs: https://www.amazon.com/Bluecell-Female-Hexagonal-Stand-off-Spacers/dp/B07FYHLSLG/ref=sr_1_2?dchild=1&keywords=40mm+standoff&qid=1610237402&sr=8-2
  Some coro sheet (for bottom of electronics box): https://www.amazon.com/T-SIGN-Corrugated-Plastic-Coroplast-Replacement/dp/B07FCKS59R/ref=sr_1_2?dchild=1&keywords=coro+sheet&qid=1610237478&sr=8-2
- Chain +  carabiner hooks for hanging
- Sprayy paint for star
- 
+ Chain +  carabiner hooks for hanging.
+ Spray paint for star.
+
