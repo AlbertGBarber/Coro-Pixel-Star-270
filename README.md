@@ -1,7 +1,7 @@
 # Coro-Pixel-Star-270
  Boscoyo 270 Node Star Code and Info.
  
- For Video See: https://www.youtube.com/watch?v=_apcykyiLMw.
+ For Video See: https://youtu.be/lrskF_KGYOs.
  
  Not doing a full write-up and how-to for this, because I made it several years ago. 
  Overall, it is not too complicated. The images should give you enough hints on how to build it.
