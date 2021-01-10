@@ -6,7 +6,8 @@
  Not doing a full write-up and how-to for this, because I made it several years ago. 
  Overall, it is not too complicated. The images should give you enough hints on how to build it.
  
- Basic contruction details:
+ BASIC CONTRUCTION OUTLINE:
+ 
  *Spray paint star desired color.
  
  *Insert pixels into star so that they start in center and circle outwards (forming complete stars). Add power injection points every 70 pixels or so.
@@ -20,7 +21,7 @@
  *Ignore the tube coming from the top of the box in the pictures, it is for a light sensor.
  
  
- Supplies (mostly):
+ SUPPLIES (mostly):
  
  Boscoyo 270 Node, 36" Star: https://boscoyostudio.com/product/chromastar-36/.
  
