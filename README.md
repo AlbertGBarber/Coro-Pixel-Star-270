@@ -6,7 +6,7 @@
  Not doing a full write-up and how-to for this, because I made it several years ago. 
  Overall, it is not too complicated. The images should give you enough hints on how to build it.
 
- For the code you'll need my pixelStrip library (github.com/AlbertGBarber/pixelStrip)
+ For the code you'll need my pixelStrip library (github.com/AlbertGBarber/PixelStrip)
  
  BASIC CONSTRUCTION OUTLINE:
  
