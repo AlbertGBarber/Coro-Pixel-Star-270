@@ -7,12 +7,14 @@
  Overall, it is not too complicated. The images should give you enough hints on how to build it.
 
  For the code you'll need my pixelStrip library (github.com/AlbertGBarber/PixelStrip)
+
+ NOTE: By default the effects are triggered to run based on the ambient light level read by a photoresistor on pin A0. Setting lightSensorDisable to true bypasses the light level check, and will cause the effects to run continuously. 
  
  BASIC CONSTRUCTION OUTLINE:
  
  *Spray paint star desired color.
  
- *Insert pixels into star so that they start in center and circle outwards (forming complete stars). Add power injection points every 70 pixels or so.
+ *Insert pixels into star so that they start in center and circle outwards (forming complete stars as you go). Add power injection points every 70 pixels or so.
  
  *Put power supply in electronics box with Arduino on mini-breadboard. 
  
@@ -22,8 +24,8 @@
  
  *Ignore the tube coming from the top of the box in the pictures, it is for a light sensor.
  
- 
  SUPPLIES (mostly):
+ Sorry if any of the links are dead, I won't keep the updated. You'll just have to use google. 
  
  Boscoyo 270 Node, 36" Star: https://boscoyostudio.com/product/chromastar-36/.
  
@@ -45,7 +47,8 @@
  
  Some waterproof connectors (also for power injection): https://www.amazon.com/BTF-LIGHTING-Plastics-Waterproof-connctor-Applicable/dp/B01LCV8LGA/ref=sr_1_3?crid=1R2U038MAUZNS&dchild=1&keywords=waterproof+connectors+3+wire&qid=1610237164&sprefix=waterproof+connector%2Caps%2C261&sr=8-3.
  
- Bare end power cable: https://www.amazon.com/Conductor-3-Prong-Wiring-Replacement-Pigtail/dp/B07MSHD726/ref=sr_1_2?dchild=1&keywords=power+cable+3+prong+bare+end&qid=1610237224&sr=8-2.
+ Bare end power CABLE (to power psu): https://www.amazon.com/Conductor-3-Prong-Wiring-Replacement-Pigtail/dp/B07MSHD726/ref=sr_1_2?dchild=1&keywords=power+cable+3+prong+bare+end&qid=1610237224&sr=8-2.
+ 
  Some 40mm Standoffs: https://www.amazon.com/Bluecell-Female-Hexagonal-Stand-off-Spacers/dp/B07FYHLSLG/ref=sr_1_2?dchild=1&keywords=40mm+standoff&qid=1610237402&sr=8-2.
  
  Some coro sheet (for bottom of electronics box): https://www.amazon.com/T-SIGN-Corrugated-Plastic-Coroplast-Replacement/dp/B07FCKS59R/ref=sr_1_2?dchild=1&keywords=coro+sheet&qid=1610237478&sr=8-2.
