@@ -14,7 +14,7 @@
  
  *Spray paint star desired color.
  
- *Insert pixels into star so that they start in center and circle outwards (forming complete stars as you go). Add power injection points every 70 pixels or so.
+ *Insert pixels into star so that they start at the top point of the outer-most star and circle clock-wise inwards (forming complete stars as you go). Add power injection points every 70 pixels or so.
  
  *Put power supply in electronics box with Arduino on mini-breadboard. 
  
